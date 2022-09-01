@@ -1,0 +1,15 @@
+D:\Projects CS\HomeWork18\HomeWork18\bin\Debug\net6.0\HomeWork18.exe
+D:\Projects CS\HomeWork18\HomeWork18\bin\Debug\net6.0\HomeWork18.deps.json
+D:\Projects CS\HomeWork18\HomeWork18\bin\Debug\net6.0\HomeWork18.runtimeconfig.json
+D:\Projects CS\HomeWork18\HomeWork18\bin\Debug\net6.0\HomeWork18.dll
+D:\Projects CS\HomeWork18\HomeWork18\bin\Debug\net6.0\HomeWork18.pdb
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\HomeWork18.csproj.AssemblyReference.cache
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\HomeWork18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\HomeWork18.AssemblyInfoInputs.cache
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\HomeWork18.AssemblyInfo.cs
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\HomeWork18.csproj.CoreCompileInputs.cache
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\HomeWork18.dll
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\refint\HomeWork18.dll
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\HomeWork18.pdb
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\HomeWork18.genruntimeconfig.cache
+D:\Projects CS\HomeWork18\HomeWork18\obj\Debug\net6.0\ref\HomeWork18.dll
